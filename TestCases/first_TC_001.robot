@@ -4,7 +4,7 @@ Library     SeleniumLibrary
 
 *** Variables ***
 # What all variables we are going to use will be declared in this section.
-${Browser}      Chrome
+${Browser}      Firefox
 ${URL}      https://www.thetestingworld.com/testings
 
 *** Test Cases ***
